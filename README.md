@@ -1,5 +1,17 @@
-## Hi there 👋
+**hello!** 🪼
 
+This is where I keep the projects I build outside of work.
+
+Most started with a question I couldn't stop thinking about. I usually build something before I convince myself I know the answer.
+
+I'm slowly moving everything here, and adding new ideas as I go.
+
+### questions currently scratching my brain
+
+- When should a product trust its own model?
+- How do you know a good decision when the outcome is uncertain?
+- What makes an explanation genuinely useful?
+- Can we build systems that are both accurate and understandable?
 <!--
 **sairakbar/sairakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
