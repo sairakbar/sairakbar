@@ -13,6 +13,23 @@ I'm slowly moving everything here, and adding new ideas as I go.
 - What makes an explanation genuinely useful?
 - Can we build systems that are both accurate and understandable?
 <!--
+## ✈️ The Airport Has Feelings
+Machine learning for the moments when airport plans meet operational reality.
+
+## 💷 Money, Models & Consequences
+Responsible decision systems for credit, risk and financial services.
+
+## 🏘️ Buildings That Talk Back
+Predictive intelligence for safer homes, smarter investment and healthier assets.
+
+## 🧠 AI With Self-Doubt
+AI systems that know when their memory, confidence or judgement may be wrong.
+
+## 🏛️ Fix the System, Not the People
+Organisational intelligence that finds friction without blaming the workforce.
+
+## 🌱 Carbon, But Causal
+Testing whether sustainability interventions genuinely change behaviour.
 **sairakbar/sairakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
