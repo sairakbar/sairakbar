@@ -12,7 +12,9 @@ I'm slowly moving everything here, and adding new ideas as I go.
 - How do you know a good decision when the outcome is uncertain?
 - What makes an explanation genuinely useful?
 - Can we build systems that are both accurate and understandable?
-<!--
+
+### current lists with some interesting stuff
+
 ## ✈️ The Airport Has Feelings
 Machine learning for the moments when airport plans meet operational reality.
 
@@ -30,16 +32,4 @@ Organisational intelligence that finds friction without blaming the workforce.
 
 ## 🌱 Carbon, But Causal
 Testing whether sustainability interventions genuinely change behaviour.
-**sairakbar/sairakbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
