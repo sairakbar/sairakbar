@@ -34,6 +34,7 @@ Responsible decision systems for credit, risk and financial services.
 ### 🏘️ buildings that talk back
 Predictive intelligence for safer homes, smarter investment and healthier assets.
 
+[The Property Shockwave] (https://github.com/sairakbar/property-shockwave) .
 [The Signal Court] (https://github.com/sairakbar/signal-court) .
 [The Homes We Know Least About] (https://github.com/sairakbar/homes-least-known) .
 [Intelligent Construction Project Risk Prediction Platform] (https://github.com/sairakbar/Intelligent-Construction-Project-Risk-Prediction-Platform) .
